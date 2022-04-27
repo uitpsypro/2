@@ -18,14 +18,3 @@ title: ""
 <!--# Eksperiment om oppmerksomhet-->
 # [For **Norsk** trykk her.](https://uitpsypro.github.io/1/nor-info)
 <br/>
-<!---
-![English Poster](/pictures/new-poster-eng.png) | ![Norsk Poster](/pictures/new-poster-nor.png) 
-![English poster](/pictures/poster_eng1.png) | ![Norsk poster](/pictures/poster_nor1.png) 
--->
-
-<!---
-![Norsk poster](/pictures/1-nor-poster-2.png)
-
-
-![test](/pictures/poster.png)
--->
