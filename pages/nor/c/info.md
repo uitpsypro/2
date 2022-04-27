@@ -4,6 +4,7 @@ title: "Info"
 ---
 ###### [QR](https://uitpsypro.github.io/2) ///// [English?](https://uitpsypro.github.io/2/eng/cat-dog)
 <br/>
+
 ###### [Informasjon](https://uitpsypro.github.io/2/nor/c/info)
 
 ---
