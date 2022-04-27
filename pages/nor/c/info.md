@@ -2,7 +2,8 @@
 permalink: /nor/c/info.html
 title: "Info"
 ---
-###### [Informasjon](https://uitpsypro.github.io/2/nor/c/info)
+###### [QR](https://uitpsypro.github.io/2) // [Informasjon](https://uitpsypro.github.io/2/nor/c/info)
+####### [English?](https://uitpsypro.github.io/2/eng/cat-dog)
 ---
 
 
