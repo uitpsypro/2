@@ -9,7 +9,7 @@ title: "Cat or dog"
 
 <br/>
 
-[![Cat](https://uitpsypro.github.io/2/pic/cat.jpg)](https://uitpsypro.github.io/2/nor/c/info) | [![Dog](https://uitpsypro.github.io/2/pic/dog.jpeg)](https://uitpsypro.github.io/2/nor/d/info)
+[![Cat](https://uitpsypro.github.io/2/pic/cat.jpg)](https://uitpsypro.github.io/2/eng/c/info) | [![Dog](https://uitpsypro.github.io/2/pic/dog.jpeg)](https://uitpsypro.github.io/2/eng/d/info)
 
 <br/>
 <br/>
