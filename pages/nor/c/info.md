@@ -17,7 +17,7 @@ title: "Info"
 
 * Vil du lære mer om oppmerksomheten din? Bli med i eksperimentet vårt! 
 
-* I vår studie vil du ikke å se på søte bilder av hunder eller katter. På den andre siden, så bruker vi hjernestimulering (ikke-invasive, se under) til å se hvordan vi kan påvirke oppmerksomheten våres! r attention interleaved with none-invasive brain stimulation (read below).
+* I vår studie vil du ikke å se på søte bilder av hunder eller katter. På den andre siden, så bruker vi hjernestimulering (ikke-invasive, se under) til å se hvordan vi kan påvirke oppmerksomheten våres! r attention interleaved with none-invasive brain stimulation (read below)
 
 * Dette er et Forskerlinje (i psykologi) prosjekt ved UiT
 
