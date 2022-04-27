@@ -3,6 +3,7 @@ permalink: /eng/c/rtms.html
 title: "rTMS"
 ---
 ###### [QR](https://uitpsypro.github.io/2/) //// [Norsk?](https://uitpsypro.github.io/2/nor/c/rtms)
+
 ###### [Info](https://uitpsypro.github.io/2/eng/c/info) / [rTMS](https://uitpsypro.github.io/2/eng/c/rtms)
 ---
 # Repetetive Transcranial Magnetic Stimulation (rTMS)
