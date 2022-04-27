@@ -1,6 +1,11 @@
-
+---
+permalink: /cat-dog.html
+title: "Info"
+---
 
 cat doge
 
 
-picture here | here 
+picture here | here
+
+TEXT LINk | TEXT LINK
