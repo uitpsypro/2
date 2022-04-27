@@ -1,5 +1,5 @@
 ---
-permalink: /nor-info.html
+permalink: /nor/c/info.html
 title: "Info"
 ---
 ###### [Hjem](https://uitpsypro.github.io/1/) / [Informasjon](https://uitpsypro.github.io/1/nor-info)
