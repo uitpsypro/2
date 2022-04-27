@@ -11,11 +11,11 @@ title: "Info"
 # Experiment about attention and brain stimulation
 
 #### What was the colour of the flowers surrounding the dog?
-* If you guessed correctly the colour was **orange**!
+* If you guessed **orange** you guessed correctly!
 
 * Do you want to learn more about your attention? Be a participant in our study!
 
-* In our study you will not be looking at cute pictures of dogs or cats, but you get to do another task that puts of a fight to your attention. The task lasts about 10minutes each, where you do them a total of four times. Between the tasks you will receive brain stimulation. More specifically, repetitive transcranial magnetic current stimulation (rTMS) which is a safe method of stimulating the brain from outside the skull. It does not produce any pain
+* In our study you will (sadly) not be looking at cute pictures of dogs or cats. We are investigating how we might influence our attention with brain stimulation. We use a task that puts on a fight for your attention interleaved with none-invasive brain stimulation (read below). 
 
 * This is a Research Student Programme ("forskerlinje" - in psychology) project at UiT
 
