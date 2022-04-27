@@ -2,16 +2,27 @@
 permalink: /eng/d/info.html
 title: "Info"
 ---
-###### [Home](https://uitpsypro.github.io/1/) / [Information](https://uitpsypro.github.io/1/eng-info)
+###### [QR](https://uitpsypro.github.io/2/) //// [Norsk?](https://uitpsypro.github.io/2/nor/d/info)
+
+###### [Information](https://uitpsypro.github.io/2/eng/d/info)
 ---
 
 # Experiment about attention and brain stimulation
+
+#### What was the colour of the flowers surrounding the dog?
+* If you guessed **blue**, you guessed correct!
+
+* Do you want to learn more about your attention? Be a participant in our study!
+
+* In our study you will (sadly) not be looking at cute pictures of dogs or cats. We are investigating how we might influence our attention with brain stimulation. We use a task that puts on a fight for your attention interleaved with none-invasive brain stimulation (read below). 
+
 * This is a Research Student Programme ("forskerlinje" - in psychology) project at UiT
+
 * The project have been ethically approved by regional ethics committee (REK nord)
 
 
 ### Short about the experiment: 
-* We will be using [repetitive transcranial magnetic stimulation (rTMS)](https://uitpsypro.github.io/1/eng-info/eng-rtms)
+* We will be using [repetitive transcranial magnetic stimulation (rTMS)](https://uitpsypro.github.io/2/eng/d/rtms)
   * A non-invasive brain stimulation procedure (click on the link above to learn more)
 * The experiment consists of two sessions (2 meetings):
   * Where you receive both **real rTMS stimulation** at one of the sessions and **placebo (fake) rTMS stimulation** at another session
@@ -47,7 +58,7 @@ title: "Info"
 
 
 
-#### If you are still interested you can [download and read the concent](https://github.com/uitpsypro/1/raw/main/documents/00-InfoSheet_english.pdf)
+#### If you are still interested you can [download and read the concent](https://github.com/uitpsypro/2/raw/main/documents/00-InfoSheet_english.pdf)
 
 
 ### Contact:
