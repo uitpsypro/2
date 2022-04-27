@@ -5,8 +5,20 @@ title: "Cat or dog"
 
 #  Cat or dog?
 
-Click the image.
+Click on a image.
 
+<br/>
+
+[![Katt](https://uitpsypro.github.io/2/pic/cat.jpg)](https://uitpsypro.github.io/2/nor/c/info) | [![Hund](https://uitpsypro.github.io/2/pic/dog.jpeg)](https://uitpsypro.github.io/2/nor/d/info)
+
+
+## [Katt](https://uitpsypro.github.io/2/nor/c/info) | [Hund](https://uitpsypro.github.io/2/nor/d/info)
+
+
+
+<!-- 
+
+OLDER SHIT (SEE nor/cat-dog.md for trial and error) 
 ![Cat](/pic/cat.jpg)  | ![Dog](/pic/dog.jpeg)
 
 [![Cat](/pic/cat.jpg)](https://uitpsypro.github.io/2/eng/c/info)  | [![Dog](/pic/dog.jpeg)](https://uitpsypro.github.io/2/eng/d/info) 
@@ -27,4 +39,4 @@ Click the image.
 
 
 #### [Katt](https://uitpsypro.github.io/2/eng/c/info) | [Hund](https://uitpsypro.github.io/2/eng/d/info)
-
+-->
