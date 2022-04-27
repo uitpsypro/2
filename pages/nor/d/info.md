@@ -2,7 +2,12 @@
 permalink: /nor/d/info.html
 title: "Info"
 ---
-###### [Informasjon](https://uitpsypro.github.io/2/d/info) 
+###### [QR](https://uitpsypro.github.io/2) //// [English?](https://uitpsypro.github.io/2/eng/d/info)
+<br/>
+
+###### [Info](https://uitpsypro.github.io/2/nor/d/info) 
+
+
 ---
 
 
