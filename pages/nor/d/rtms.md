@@ -3,7 +3,6 @@ permalink: /nor/d/rtms.html
 title: "rTMS"
 ---
 ###### [QR](https://uitpsypro.github.io/2) //// [English?](https://uitpsypro.github.io/2/eng/d/rtms) 
-<br/>
 
 ##### [Info](https://uitpsypro.github.io/2/nor/d/info) / [rTMS](https://uitpsypro.github.io/2/nor/d/rtms)
 ---
