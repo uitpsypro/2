@@ -4,8 +4,6 @@ title: "rTMS"
 ---
 ###### [QR](https://uitpsypro.github.io/2)  //// [English?](https://uitpsypro.github.io/2/eng/c/rtms)
 
-<br/>
-
 ###### [Informasjon](https://uitpsypro.github.io/2/nor/c/info) / [rTMS](https://uitpsypro.github.io/2/nor/c/rtms)
 
 ---
