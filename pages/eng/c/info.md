@@ -23,7 +23,7 @@ title: "Info"
 
 
 ### Short about the experiment: 
-* We will be using [repetitive transcranial magnetic stimulation (rTMS)](https://uitpsypro.github.io/1/eng-info/eng-rtms)
+* We will use [repetitive transcranial magnetic stimulation (rTMS)](https://uitpsypro.github.io/2/eng/c/rtms)
   * A non-invasive brain stimulation procedure (click on the link above to learn more)
 * The experiment consists of two sessions (2 meetings):
   * Where you receive both **real rTMS stimulation** at one of the sessions and **placebo (fake) rTMS stimulation** at another session
