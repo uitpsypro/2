@@ -1,5 +1,5 @@
 ---
-permalink: /eng-info.html
+permalink: /eng/d/info.html
 title: "Info"
 ---
 ###### [Home](https://uitpsypro.github.io/1/) / [Information](https://uitpsypro.github.io/1/eng-info)
