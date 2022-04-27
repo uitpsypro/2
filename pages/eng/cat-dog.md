@@ -5,7 +5,7 @@ title: "Cat or dog"
 
 #  Cat or dog?
 
-Click on a image.
+#### Click on a image.
 
 <br/>
 
