@@ -2,8 +2,10 @@
 permalink: /nor/c/rtms.html
 title: "rTMS"
 ---
-###### [QR](https://uitpsypro.github.io/2)  ///  [Informasjon](https://uitpsypro.github.io/2/nor/c/info) / [rTMS](https://uitpsypro.github.io/2/nor/c/rtms)
-###### [English?](https://uitpsypro.github.io/2/eng/cat-dog)
+###### [QR](https://uitpsypro.github.io/2)  //// [English?](https://uitpsypro.github.io/2/eng/c/rtms)
+<br/>
+###### [Informasjon](https://uitpsypro.github.io/2/nor/c/info) / [rTMS](https://uitpsypro.github.io/2/nor/c/rtms)
+
 ---
 # Repetetive Transkraniell Magnetisk Stimulering (rTMS)
 
