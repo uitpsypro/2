@@ -3,7 +3,6 @@ permalink: /eng/c/info.html
 title: "Info"
 ---
 ###### [QR](https://uitpsypro.github.io/2) //// [Norsk?](https://uitpsypro.github.io/2/nor/c/info)
-<br/>
 
 ###### [Info](https://uitpsypro.github.io/2/eng/c/info)
 ---
