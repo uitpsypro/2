@@ -2,6 +2,8 @@
 permalink: /eng/cat-dog.html
 title: "Cat or dog"
 ---
+###### [QR](https://uitpsypro.github.io/2) //// [Norsk?](https://uitpsypro.github.io/2/nor/cat-dog)
+---
 
 #  Cat or dog?
 
