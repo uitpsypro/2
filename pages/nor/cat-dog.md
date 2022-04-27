@@ -5,7 +5,7 @@ title: "Katt eller hund"
 
 #  Katt eller hund?
 
-Click the image.
+Tykk på ett bilde.
 
 ![Katt](/pic/cat.jpg)  | ![Hund](/pic/dog.jpeg)
 
@@ -15,5 +15,5 @@ Click the image.
 
 
 
-#### [Katt](https://uitpsypro.github.io/2/eng/c/info) | #### [Hund](https://uitpsypro.github.io/2/eng/d/info)
+#### [Katt](https://uitpsypro.github.io/2/eng/c/info) | [Hund](https://uitpsypro.github.io/2/eng/d/info)
 
