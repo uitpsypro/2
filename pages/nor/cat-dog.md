@@ -13,6 +13,9 @@ title: "Katt eller hund"
 [![Katt](https://raw.githubusercontent.com/uitpsypro/2/main/pic/cat.jpg)](https://uitpsypro.github.io/2/nor/c/info | [![Hund](https://raw.githubusercontent.com/uitpsypro/2/main/pic/dog.jpeg)](https://uitpsypro.github.io/2/nor/d/info)
 <br/>
 
+[![Katt](https://uitpsypro.github.io/2/pic/cat.jpg)](https://uitpsypro.github.io/2/nor/c/info | [![Hund](https://uitpsypro.github.io/2/pic/dog.jpeg)](https://uitpsypro.github.io/2/nor/d/info)
+<br/>
+
 
 ## [Katt](https://uitpsypro.github.io/2/nor/c/info) | [Hund](https://uitpsypro.github.io/2/nor/d/info)
 
