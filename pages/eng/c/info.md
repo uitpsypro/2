@@ -59,7 +59,7 @@ title: "Info"
 
 
 
-#### If you are still interested you can [download and read the concent](https://github.com/uitpsypro/1/raw/main/documents/00-InfoSheet_english.pdf)
+#### If you are still interested you can [download and read the concent](https://github.com/uitpsypro/2/raw/main/documents/00-InfoSheet_english.pdf)
 
 
 ### Contact:
