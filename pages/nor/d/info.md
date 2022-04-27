@@ -3,19 +3,23 @@ permalink: /nor/d/info.html
 title: "Info"
 ---
 ###### [QR](https://uitpsypro.github.io/2) //// [English?](https://uitpsypro.github.io/2/eng/d/info)
-<br/>
 
 ###### [Info](https://uitpsypro.github.io/2/nor/d/info) 
-
-
 ---
 
-
-
 # Eksperiment om oppmerksomhet og hjernestimulering
-* Dette er et Forskerlinje (i psykologi) prosjekt ved UiT
-* Prosjektet har blitt etisk godkjent av den regionale etiske kommiteen (REK nord)
 
+### Hva var fargen på øynene til katten?
+
+* Hvis du gjettet **blå**, så gjettet du riktig!
+
+* Vil du lære mer om oppmerksomheten din? Bli med i eksperimentet vårt! 
+
+* I vår studie vil du ikke å se på søte bilder av hunder eller katter. På den andre siden, så bruker vi hjernestimulering (ikke-invasive, se under) til å se hvordan vi kan påvirke oppmerksomheten våres! r attention interleaved with none-invasive brain stimulation (read below)
+
+* Dette er et Forskerlinje (i psykologi) prosjekt ved UiT
+
+* Prosjektet har blitt etisk godkjent av den regionale etiske kommiteen (REK nord)
 ### Kort om eksperimentet: 
 * Ved bruk av [repetetiv transkraniall magnetisk stimulering (rTMS)](https://uitpsypro.github.io/2/nor/d/rtms)
   * En ikke-invasive hjernestimuleringsprosedyre (trykk på linken over for å lære mer)
