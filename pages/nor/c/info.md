@@ -3,16 +3,24 @@ permalink: /nor/c/info.html
 title: "Info"
 ---
 ###### [QR](https://uitpsypro.github.io/2) ///// [English?](https://uitpsypro.github.io/2/eng/c/info)
-<br/>
 
 ###### [Info](https://uitpsypro.github.io/2/nor/c/info)
 
 ---
 
 
-
 # Eksperiment om oppmerksomhet og hjernestimulering
+
+### Hva var fargen til blomstene rundt hunden?
+
+* Hvis du gjettet **oransje**, så gjettet du riktig!
+
+* Vil du lære mer om oppmerksomheten din? Bli med i eksperimentet vårt! 
+
+* I vår studie vil du ikke å se på søte bilder av hunder eller katter. På den andre siden, så bruker vi hjernestimulering (ikke-invasive, se under) til å se hvordan vi kan påvirke oppmerksomheten våres! r attention interleaved with none-invasive brain stimulation (read below).
+
 * Dette er et Forskerlinje (i psykologi) prosjekt ved UiT
+
 * Prosjektet har blitt etisk godkjent av den regionale etiske kommiteen (REK nord)
 
 ### Kort om eksperimentet: 
