@@ -2,6 +2,8 @@
 permalink: /nor/cat-dog.html
 title: "Katt eller hund"
 ---
+###### [QR](https://uitpsypro.github.io/2)
+<br/>
 
 #  Katt eller hund?
 
