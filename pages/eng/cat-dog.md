@@ -11,8 +11,11 @@ title: "Cat or dog"
 
 [![Katt](https://uitpsypro.github.io/2/pic/cat.jpg)](https://uitpsypro.github.io/2/nor/c/info) | [![Hund](https://uitpsypro.github.io/2/pic/dog.jpeg)](https://uitpsypro.github.io/2/nor/d/info)
 
+<br/>
+<br/>
+<br/>
 
-## [Katt](https://uitpsypro.github.io/2/nor/c/info) | [Hund](https://uitpsypro.github.io/2/nor/d/info)
+### [Katt](https://uitpsypro.github.io/2/nor/c/info) | [Hund](https://uitpsypro.github.io/2/nor/d/info)
 
 
 
